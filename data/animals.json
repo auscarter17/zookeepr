@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "K. Rool",
+      "species": "Crocodile",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
